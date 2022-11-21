@@ -1,0 +1,155 @@
+.maindash{
+    display: flex;
+    flex-direction: column;
+}
+
+.wrapsec{
+    display: flex;
+    background-image: url("./img/ds02.png");
+    background-repeat: no-repeat;
+    background-position-x: 115%;
+    background-position-y: 550px;
+    background-size: 500px;
+}
+
+/*section1*/
+.section1{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background-image: url("./img/ds01.png");
+    background-repeat: no-repeat;
+    background-position-x: -100px;
+    background-position-y: -80px;
+    background-size: 500px;
+}
+
+/*section2*/
+.section2{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.footerdash{
+    height: 300px;
+    background-color: #8BD9CA;
+}
+
+/*s1*/
+.contopup{
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    border: solid;
+    background-color: #8BD9CA;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 400px;
+    height: 200px;
+}
+
+.conpromo{
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    /*border: solid;*/
+
+    margin-top: 2rem;
+    margin-right: auto;
+    margin-left: auto;
+    width: 400px;
+    height: 350px;
+}
+
+.greeting{
+    margin-top: 7rem;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 20px;
+}
+
+.carlog{
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+}
+/*s2*/
+.sclogo{
+    margin : 1.5rem 2rem 1rem 2rem;
+    width: 50px;
+}
+.conshortcut{
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    border: solid;
+    background-color: white;
+    margin-top: 22%;
+    margin-right: auto;
+    margin-left: auto;
+    width: 400px;
+    height: 200px;
+}
+
+.conrecent{
+    margin-right: auto;
+    margin-left: auto;
+    width: 400px;
+    height: 200px;
+    margin-top: 100px;
+    border: solid;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.recentwrap{
+    margin-right: auto;
+    margin-top: 2px;
+    margin-left: auto;
+    width: 370px;
+    height: 190px;
+    overflow-y: scroll;
+}
+
+.recitem{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+.sccont{
+    display: flex;
+}
+
+.scwrap{
+    margin: auto auto auto auto;
+}
+
+.scitem{
+    margin-left: 2.2rem;
+}
+
+
+.topupwrap{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.tBalance{
+    margin-left: 2.5rem;
+}
+.aBalance{
+    margin-left: 2.5rem;
+}
+.btnTopUp{
+    margin-left: 2rem;
+    background-color: #29A867;
+    border-radius: 10px;
+    width: 70px;
+    height: 40px;
+}

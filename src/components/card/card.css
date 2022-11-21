@@ -1,0 +1,27 @@
+.cardmain {
+    width: 325px;
+    height: 100px;
+    margin: 1rem;
+    display: flex;
+    border: solid;
+    transition: 0.3s;
+    border-radius: 10px; /* 5px rounded corners */
+}
+
+.cardcon{
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+}
+
+b{
+    width: 150px;
+    margin: 1px;
+}
+
+
+/* Add rounded corners to the top left and the top right corner of the image */
+img {
+    border-radius: 5px 0 5px 0;
+    width: 100px;
+}

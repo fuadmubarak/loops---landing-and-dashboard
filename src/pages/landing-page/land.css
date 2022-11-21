@@ -1,0 +1,209 @@
+/*Section*/
+.sec1{
+    text-align: center;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 3rem;
+    padding-top: 10rem;
+}
+
+.sec2{
+    margin-top: 2rem;
+    text-align: center;
+    background-color: #8BD9CA;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+
+.sec3{
+    padding-bottom: 10rem;
+    padding-top: 3rem;
+    margin-top: 2rem;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footerland{
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+    background-color: #8BD9CA;
+    display: flex;
+    flex-direction: column;
+}
+
+/*SECTION 1*/
+.logo{
+    width: 250px;
+    margin: 50px auto;
+}
+
+.logo1{
+    width: 100px;
+
+}
+
+.c2cont{
+    margin: 50px 30px;
+    text-justify: auto;
+}
+
+.c1{
+     width: 50%;
+     background-color: aliceblue;
+     border-radius: 15px;
+    margin-left: 30px;
+    margin-right: 30px;
+ }
+
+.c2{
+    width: 50%;
+}
+
+/*SECTION 2*/
+.sistem{
+    font-family: 'Inter', sans-serif;
+    font-size: 88px;
+    font-weight: bold;
+    background: linear-gradient(to right ,#fff, #000 ) ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.cardlog{
+    margin: 1rem auto;
+    width: 100px;
+}
+
+.con {
+    display: flex;
+}
+
+.card{
+    width: 400px;
+    padding: 50px 0;
+    margin: 0 auto  ;
+    border-radius: 40px;
+    background-color: white;
+}
+
+/*SECTION 3*/
+.s3cont{
+    display: flex;
+    flex-direction: column;
+}
+
+.merchlist{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.merchitem{
+    width: 150px;
+    height: 150px;
+    margin: 1rem;
+}
+
+.merch{
+    margin-top: 3rem;
+}
+
+.merchname{
+    font-family: 'Inter', sans-serif;
+    font-size: 88px;
+    font-weight: bold;
+    background: linear-gradient(to right ,#5DA698, #8BD9CA ) ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+p{
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+/*Footer*/
+.foos1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 19%;
+    text-align: left;
+}
+
+.foolog{
+    width: 70px;
+    margin-bottom: 1rem;
+}
+
+.foos2{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.foos3{
+    display: flex;
+    margin-left: 19%;
+}
+
+.fooprod{
+    display: flex;
+    flex-direction: column;
+    margin: 2.5rem;
+}
+.foores{
+    display: flex;
+    flex-direction: column;
+    margin: 2.5rem;
+}
+.foocomp{
+    display: flex;
+    flex-direction: column;
+    margin: 2.5rem;
+}
+.foojoin{
+    display: flex;
+    flex-direction: column;
+    margin: 2.5rem;
+}
+.title{
+    font-family: 'Inter', sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    background: linear-gradient(to right ,#fff, #000 ) ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.flogo{
+    padding: 0.5rem;
+    width: 40px;
+    border-radius: 50%;
+    background: white;
+    margin: 1rem;
+}
+
+.f1{
+    margin-top: 1.5rem;
+}
+
+.f2{
+    margin-left: 40%;
+}
+
+.join{
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    width: 150px;
+    height: 50px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+
+
+
+
